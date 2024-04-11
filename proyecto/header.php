@@ -1,0 +1,1 @@
+<?php header("admin_copy.php");
